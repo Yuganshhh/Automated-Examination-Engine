@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EngineeringMasterclass.Api/EngineeringMasterclass.Api.csproj" />
+  <Project Path="EngineeringMasterclass.Dal/EngineeringMasterclass.Dal.csproj" />
+  <Project Path="EngineeringMasterclass.Domain/EngineeringMasterclass.Domain.csproj" />
+  <Project Path="EngineeringMasterclass.Services/EngineeringMasterclass.Services.csproj" />
+</Solution>
