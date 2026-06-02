@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EngineeringMasterclass.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+630968c73780b801869aa7349761c272b867f443")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3312104713179bed744adaaeaaa6f0fe4843d99e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EngineeringMasterclass.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EngineeringMasterclass.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
